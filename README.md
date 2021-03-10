@@ -1,2 +1,4 @@
 # dice-picking-game
-  Made along with Jonas: The Complete JavaScript Course.  Clean folder has project with no notes.
+  Made along with Jonas: The Complete JavaScript Course.  
+  
+  Clean folder has project with no notes.
